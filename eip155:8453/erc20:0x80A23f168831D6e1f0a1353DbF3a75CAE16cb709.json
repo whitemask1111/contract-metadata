@@ -1,0 +1,7 @@
+{
+  "name": "IO Beats",
+  "symbol": "IOB",
+  "decimals": 18,
+  "erc20": true,
+  "logo": "./icons/eip155:8453/erc20:0x80A23f168831D6e1f0a1353DbF3a75CAE16cb709.svg"
+}
