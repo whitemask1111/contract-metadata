@@ -1,3 +1,9 @@
+"0x80a23f168831d6e1f0a1353dbf3a75cae16cb709": {
+    "name": "Io Beats",
+    "logo": "0x80a23f168831d6e1f0a1353dbf3a75cae16cb709.png",
+    "erc20": true,
+    "symbol": "IOB",
+    "decimals": 18
 {
   "0x14778860E937f509e651192a90589dE711Fb88a9": {
     "name": "Cyber",
